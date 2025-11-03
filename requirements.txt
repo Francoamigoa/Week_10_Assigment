@@ -1,0 +1,3 @@
+Faker
+apache-airflow-providers-postgres
+matplotlib
